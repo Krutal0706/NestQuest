@@ -20,9 +20,9 @@ from io import BytesIO
 import openai
 
 
-user_api_key = "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"
+user_api_key = "API KEY"
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API KEY"
 
 tmp_file_path = "realestate_fianl_dataset.csv"
 
